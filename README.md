@@ -6,7 +6,7 @@
 
 *Todos los hosts que tengan el puerto 22 abirto filtrado por organizaciones y sistemas operativos.
 
-![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/edit/main/doc/img/consulta1.png)
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/main/doc/img/consulta1.png)
 
 
 
