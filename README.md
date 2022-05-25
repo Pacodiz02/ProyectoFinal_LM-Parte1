@@ -10,8 +10,7 @@
 
 
 
-### 3 programas python que muestren información de las consultas a la API (se pueden usar las mismas consultas que has utilizado en el punto anterior) 
-utilizando la librería requests. 
+### 3 programas python que muestren información de las consultas a la API (se pueden usar las mismas consultas que has utilizado en el punto anterior) utilizando la librería requests. 
 
 
 ### Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
