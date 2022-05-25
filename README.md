@@ -4,7 +4,7 @@
 
 ### -La ejecución y salida de 3 peticiones a la API principal (si eliges dos API, solo a una de ella) utilizando curl. Estas peticiones se harán sobre URL con parámetros.
 
-*Todos los hosts que tengan el puerto 22 abirto filtrado por organizaciones y sistemas operativos.
+* Todos los hosts que tengan el puerto 22 abirto filtrado por organizaciones y sistemas operativos.
 
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta1.png)
 
