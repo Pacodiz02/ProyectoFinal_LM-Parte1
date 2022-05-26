@@ -12,6 +12,8 @@
 
 * Toda la informacióm referente a la dirección IP que le pongamos.(Servicios,protocolos,organización a la que perteneze, puertos, etc.)
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta2.1.png)
+
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta2.png)
 
 
