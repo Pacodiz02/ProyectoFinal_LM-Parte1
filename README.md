@@ -10,7 +10,14 @@
 
 
 
+* Toda la informacióm referente a la dirección IP que le pongamos.(Servicios,protocolos,organización a la que perteneze, puertos, etc.)
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta2.png)
+
+
+* Todos los puertos que rastrea shodan por internet.
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta3.png)
 
 
 ### -3 programas python que muestren información de las consultas a la API (se pueden usar las mismas consultas que has utilizado en el punto anterior) utilizando la librería requests. 
