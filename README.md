@@ -27,13 +27,29 @@
 - Programa 1
 El programa nos pregunta por un puerto y nos dice cuantos dispositivos encuentra con ese puerto abierto en la red. También nos da la opción de utilizar un filtro para la busqueda(org,os).
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog1/comprobacion_si_programa1.png)
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog1/comprobacion_no_programa1.png)
+
 
 - Programa 2
 El programa nos pide que introduzcamos una dirección IP y nos muestra toda la información que recopila sobre ella.(Servicios,protocolos,organización a la que perteneze, puertos, etc.)
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog2/comprobacion2_programa2.png)
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog2/comprobacion1_programa2.png)
+
+
 - Programa 3
 El programa nos da a elegir si mostrar una lista de puertos que rastrea shodan o otra de protocolos.
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog3/comprobacion1_ports_programa3.png)
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog3/comprobacion2_ports_programa3.png)
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog3/comprobacion1_protocols_programa3.png)
+
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog3/comprobacion2_protocols_programa3.png)
 
 
 ### -Las URL de la docuementación del servicio web (o servicios) que vais a utilizar.
