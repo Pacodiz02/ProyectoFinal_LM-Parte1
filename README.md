@@ -10,7 +10,7 @@
 
 
 
-* Toda la informacióm referente a la dirección IP que le pongamos.(Servicios,protocolos,organización a la que perteneze, puertos, etc.)
+* Toda la información referente a la dirección IP que le pongamos.(Servicios,protocolos,organización a la que perteneze, puertos, etc.)
 
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta2.1.png)
 
@@ -22,7 +22,7 @@
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/doc/img/consulta3.png)
 
 
-### -3 programas python que muestren información de las consultas a la API (se pueden usar las mismas consultas que has utilizado en el punto anterior) utilizando la librería requests. Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
+### -3 programas python que muestren información de las consultas a la API (se pueden usar las mismas consultas que has utilizado en el punto anterior) utilizando la librería requests.
 
 - Programa 1
 El programa nos pregunta por un puerto y nos dice cuantos dispositivos encuentra con ese puerto abierto en la red. También nos da la opción de utilizar un filtro para la busqueda(org,os).
@@ -51,6 +51,11 @@ El programa nos da a elegir si mostrar una lista de puertos que rastrea shodan o
 
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog3/comprobacion2_protocols_programa3.png)
 
+
+### Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
+
+Mi aplicación web va realizar una busqueda de todos los datos e información de un determinado host que se le especifique bajo una serie de filtros. 
+También tendrá un apartado para hacer una pequeña vista sobre puertos y/o protocolos que utiliza una organización en sus servicios en concreto.
 
 ### -Las URL de la docuementación del servicio web (o servicios) que vais a utilizar.
 
