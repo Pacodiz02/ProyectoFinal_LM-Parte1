@@ -10,14 +10,16 @@ s=input("¿Quieres filtrar el resultado?(s/n): ")
 
 if s == "s":
 
-    filtro=input("Introduce el parametro para filtrar(ej. org,os): ")
+    filtro=input("Introduce el parámetro para filtrar(ej. org,os): ")
     payload={'key':key,"query":puerto,"facets":filtro}
     url=url_base + "shodan/" + "host/" + "count"
     r=requests.get(url,params=payload)
 
     if r.status_code == 200:
         datos=r.json()
-        print(json.dumps(datos,indent=4,sort_keys=True))
+        for i in datos.get("facets").get("org"):
+            print(i)
+        print("\n")
         
     else:
         print("Error en la busqueda, " ,r.status_code)
@@ -30,7 +32,7 @@ elif s == "n":
 
     if r.status_code == 200:
         datos=r.json()
-        print(json.dumps(datos,indent=4,sort_keys=True))
+        print("Total:" ,datos.get("total"))
 
     else:
         print("Error en la busqueda, " ,r.status_code)
