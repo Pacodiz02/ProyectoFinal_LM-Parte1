@@ -39,6 +39,8 @@ El programa nos pide que introduzcamos una dirección IP y nos muestra toda la i
 
 ![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog2/comprobacion1_programa2.png)
 
+![image](https://github.com/Pacodiz02/ProyectoFinal_LM-Parte1/blob/main/prog2/comprobacion3_programa2.png)
+
 
 - Programa 3
 El programa nos da a elegir si mostrar una lista de puertos que rastrea shodan o otra de protocolos.
