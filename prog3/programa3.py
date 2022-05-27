@@ -12,7 +12,8 @@ r=requests.get(url,params=payload)
 
 if r.status_code == 200:
     datos=r.json()
-    print(json.dumps(datos,indent=4,sort_keys=True))
+    for i in datos:  
+        print(i)
     
 else:
     print("Error en la busqueda, " ,r.status_code)
