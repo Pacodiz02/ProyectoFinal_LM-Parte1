@@ -16,3 +16,22 @@ if r.status_code == 200:
     
 else:
     print("Error en la busqueda, " ,r.status_code)
+
+s=input("¿Deseas ver una vista simplificada de la información mostrada?(s/n) ")
+
+if s == "s":
+
+    if r.status_code == 200:
+        datos=r.json()
+    
+        listaPuertos=[]
+        for i in datos.get("ports"):
+            listaPuertos.append(i)
+    
+        print("Organización: " ,json.dumps(datos.get("org"),indent=4,sort_keys=True))
+        print("Dirección IP: " ,json.dumps(datos.get("ip_str"),indent=4,sort_keys=True))
+        print("Puertos: " ,listaPuertos)
+    
+    else:
+        print("Error en la busqueda, " ,r.status_code)
+    
